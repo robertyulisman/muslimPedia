@@ -1,0 +1,12 @@
+[
+  {"id": 0, "jam": "Rabu, 04/05/2022", "name": "tanggal"},
+  {"id": 1, "jam": "04:28", "name": "imsak"},
+  {"id": 2, "jam": "04:38", "name": "subuh"},
+  {"id": 3, "jam": "05:53", "name": "terbit"},
+  {"id": 4, "jam": "06:21", "name": "dhuha"},
+  {"id": 5, "jam": "12:04", "name": "dzuhur"},
+  {"id": 6, "jam": "15:24", "name": "ashar"},
+  {"id": 7, "jam": "18:09", "name": "maghrib"},
+  {"id": 8, "jam": "19:19", "name": "isya"},
+  {"id": 9, "jam": "2022-05-04", "name": "date"}
+]
